@@ -1,4 +1,4 @@
-const text = "Hi, cutie!";
+const text = "Will you be ny Valentine's? 🫵🏻";
 let i = 0;
 
 function typeWriter() {
